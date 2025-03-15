@@ -35,6 +35,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "live2d-widget-model-wanko": "^1.0.5",
     "save": "^2.9.0",
-    "stylus": "^0.59.0"
+    "stylus": "^0.64.0"
   }
 }
